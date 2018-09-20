@@ -1,0 +1,24 @@
+_repo: The-Romance-of-the-Ranchos_53500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conner, E. Palmer
+    alias: Conner, Palmer
+    gutenberg_agent_id: '47402'
+    url: http://www.gutenberg.org/2009/agents/47402
+description: ''
+gutenberg_issued: '2016-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Los Angeles County (Calif.) -- History'
+- !lcc 'F850.5'
+- !lcsh 'Land grants -- California -- Los Angeles County'
+- GITenberg
+title: The Romance of the Ranchos
+url: http://www.gutenberg.org/ebooks/53500
